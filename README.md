@@ -1,2 +1,5 @@
 # BashReduceProjectSOII
-Project with examples about scripts and data sets to test the efficiency of our cpu
+Proyecto:
+Conocer las ventajas de Bash Reduce sobre la distribución de trabajo en varios cores de una máquina o en varias máquinas
+
+
